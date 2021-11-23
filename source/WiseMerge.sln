@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiseMerge.DocumentStructure", "WiseMerge.DocumentStructure\WiseMerge.DocumentStructure.csproj", "{E6FDADE6-D479-4102-B8FA-42D5AC8DA036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiseMerge.MergeCore", "WiseMerge.MergeCore\WiseMerge.MergeCore.csproj", "{BFD76FA1-FDAD-4DE0-85DF-8912F43DB20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiseMerge.CLI", "WiseMerge.CLI\WiseMerge.CLI.csproj", "{E6162FED-E07A-46E8-9FA0-B5A33DE30FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FDADE6-D479-4102-B8FA-42D5AC8DA036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FDADE6-D479-4102-B8FA-42D5AC8DA036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FDADE6-D479-4102-B8FA-42D5AC8DA036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FDADE6-D479-4102-B8FA-42D5AC8DA036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD76FA1-FDAD-4DE0-85DF-8912F43DB20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD76FA1-FDAD-4DE0-85DF-8912F43DB20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD76FA1-FDAD-4DE0-85DF-8912F43DB20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD76FA1-FDAD-4DE0-85DF-8912F43DB20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6162FED-E07A-46E8-9FA0-B5A33DE30FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6162FED-E07A-46E8-9FA0-B5A33DE30FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6162FED-E07A-46E8-9FA0-B5A33DE30FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6162FED-E07A-46E8-9FA0-B5A33DE30FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
